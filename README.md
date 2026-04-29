@@ -1,4 +1,4 @@
-# 🌊 Titanic Survival Prediction Project
+# 🌊 Titanic Survival Prediction Project by Achyuth
 
 Welcome to the **Titanic Survival Prediction** project! 🛳️ This project showcases the application of machine learning techniques to predict which passengers survived the sinking of the Titanic. Explore this repository to dive into the fascinating world of data analysis, feature engineering, and predictive modeling. 🚀
 
